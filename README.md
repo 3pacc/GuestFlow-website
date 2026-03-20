@@ -2,7 +2,7 @@
   <img src="src/assets/hero.png" alt="GuestFlow" width="120" />
 </p>
 
-<h1 align="center">GuestFlow — Site Vitrine Officiel</h1>
+<h1 align="center">GuestFlow — Site Officiel</h1>
 
 <p align="center">
   Plateforme IA native pour l'hôtellerie — Automatisation des réservations et interactions clients par agent vocal intelligent.
