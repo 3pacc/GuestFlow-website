@@ -19,7 +19,7 @@
 
 ## Aperçu
 
-Site vitrine B2B premium pour **GuestFlow**, conçu pour présenter la plateforme d'IA vocale hôtelière et convertir les visiteurs en prospects qualifiés. Le site est entièrement rédigé en français avec un ton professionnel haut de gamme.
+Site officiel B2B **GuestFlow**, conçu pour présenter la plateforme d'IA vocale hôtelière et convertir les visiteurs en prospects qualifiés. Le site est entièrement rédigé en français avec un ton professionnel haut de gamme.
 
 ### Caractéristiques principales
 
